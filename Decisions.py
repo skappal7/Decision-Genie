@@ -84,7 +84,7 @@ if submitted:
         url = 'https://us-central1-rationale-ai.cloudfunctions.net/analysisApi'
         headers = {
             # For demonstration only—never hardcode keys in production
-            "x-api-key": "token QKUYF6kacgeLVjH0dZXS:ef0936bae1d47573b7744df61bc709f46eb85820e230fd24609119c1a7d7e7df",
+            "x-api-key": "QKUYF6kacgeLVjH0dZXS:ef0936bae1d47573b7744df61bc709f46eb85820e230fd24609119c1a7d7e7df",
             "content-type": "application/json"
         }
 
