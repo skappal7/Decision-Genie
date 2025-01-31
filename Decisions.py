@@ -84,7 +84,7 @@ if submitted:
         url = 'https://api.rationale.jina.ai/v1/analysisApi'
         headers = {
             # For demonstration only—never hardcode keys in production
-            "x-api-key": "QKUYF6kacgeLVjH0dZXS:ef0936bae1d47573b7744df61bc709f46eb85820e230fd24609119c1a7d7e7df",
+            "x-api-key": "jina_3fbbd7279c4848d68010b13eda3fe849ZHatNmPGe8BdrlKyGFlSpakDGIyJ",
             "content-type": "application/json"
         }
 
